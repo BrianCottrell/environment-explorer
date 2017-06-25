@@ -1,9 +1,0 @@
-﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-    <PropertyGroup>
-        <UnityWSASolutionName>Origami</UnityWSASolutionName>
-        <UnityWSASolutionDir>D:\Unity Projects\Origami_Hololens\App\</UnityWSASolutionDir>
-        <UnityProjectDir>D:\Unity Projects\Origami_Hololens\</UnityProjectDir>
-        <UnityWSAPlayerDir>C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
-        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
-    </PropertyGroup>
-</Project>
