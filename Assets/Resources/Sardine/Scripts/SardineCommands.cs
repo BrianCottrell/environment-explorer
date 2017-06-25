@@ -15,7 +15,7 @@ public class SardineCommands : MonoBehaviour {
 	}
 
 	public void Go() {
-		sardine.GetComponent<SardineCharacter>().forwardSpeed = 1;
+		sardine.GetComponent<SardineCharacter>().forwardSpeed = 3;
 	}
 
 	public void Stop() {
