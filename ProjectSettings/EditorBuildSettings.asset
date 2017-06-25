@@ -6,5 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/origamiScene.unity
-    guid: 48e7c6f7116e72f48b865496dce10722
+    path: Assets/Resources/Sardine/Scenes/Demo1.2.1.unity
+    guid: e3ca6d0c0e50d4c5e8994a27b0936e8b
